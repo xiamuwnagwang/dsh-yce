@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "YCE Prompt Enhance",
+    "description": "Rewrites and structures composer prompts via your configured yce-mcp server."
+  }
+}

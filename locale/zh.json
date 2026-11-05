@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "YCE 提示词增强",
+    "description": "基于已配置的 YCE MCP（yce-mcp），在 Composer 输入框一键改写并结构化提示词。"
+  }
+}

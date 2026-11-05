@@ -1,0 +1,5 @@
+# dsh-yce bundle overlay. Row id must match package.json name and the client NAMESPACE.
+# No config: YCE credentials live on the already-installed yce-mcp entry.
+- insert:
+    - id: dsh-yce
+      name: dsh-yce
